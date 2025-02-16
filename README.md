@@ -9,6 +9,38 @@ As principais funcionalidades incluem:
 - Impressão do caminho percorrido pelo robô em tempo real.
 - Geração de relatório detalhado dos astronautas resgatados e não resgatados, incluindo suas condições de saúde.
 
+Para a implementar as matrizes é necessário implementá-las em um arquivo chamado "entrada1.txt", "entrada2.txt", etc. Além disso, tais matrizes precisam estar nesse formato:
+
+Descrição: 
+- Primeira linha: dimensões da matriz.
+- Elementos da matriz
+- Astronautas: nome, nível de saúde e atendimento urgente dos astronautas
+- Posições dos astronautas da matriz: nome e coordenadas dos astronautas
+
+10 10
+S.........
+.###..#..A
+.###..#...
+.~~~..F..A
+.~~~..F.A.
+A~~~..F.F.
+.~~~..F...
+.....F....
+..A..F....
+..........
+Astronautas:
+Yuri Gagarin,85,0
+Neil Armstrong,60,1
+Buzz Aldrin,95,0
+Marcos Pontes,50,1
+Valentina Tereshkova,70,0
+Posições dos astronautas na matriz:
+Yuri Gagarin: (1,9)
+Neil Armstrong: (4,8)
+Buzz Aldrin: (5,0)
+Marcos Pontes: (8,2)
+Valentina Tereshkova: (3,9)
+
 ---
 
 ## Funcionalidades
