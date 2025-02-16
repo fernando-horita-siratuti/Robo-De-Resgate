@@ -19,21 +19,32 @@ Descrição:
 
 10 10
 S.........
+
 .###..#..A
+
 .###..#...
+
 .~~~..F..A
+
 .~~~..F.A.
+
 A~~~..F.F.
+
 .~~~..F...
+
 .....F....
+
 ..A..F....
+
 ..........
+
 Astronautas:
 Yuri Gagarin,85,0
 Neil Armstrong,60,1
 Buzz Aldrin,95,0
 Marcos Pontes,50,1
 Valentina Tereshkova,70,0
+
 Posições dos astronautas na matriz:
 Yuri Gagarin: (1,9)
 Neil Armstrong: (4,8)
