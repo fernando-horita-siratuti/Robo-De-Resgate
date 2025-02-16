@@ -18,6 +18,7 @@ Descrição:
 - Posições dos astronautas da matriz: nome e coordenadas dos astronautas
 
 10 10
+
 S.........
 
 .###..#..A
@@ -39,17 +40,27 @@ A~~~..F.F.
 ..........
 
 Astronautas:
+
 Yuri Gagarin,85,0
+
 Neil Armstrong,60,1
+
 Buzz Aldrin,95,0
+
 Marcos Pontes,50,1
+
 Valentina Tereshkova,70,0
 
 Posições dos astronautas na matriz:
+
 Yuri Gagarin: (1,9)
+
 Neil Armstrong: (4,8)
+
 Buzz Aldrin: (5,0)
+
 Marcos Pontes: (8,2)
+
 Valentina Tereshkova: (3,9)
 
 ---
